@@ -3,12 +3,13 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Инструментарий творца
-// @author       Ид / 1667906
 // @match        http*://*.catwar.su/cw3/kns
 // @match        http*://*.catwar.net/cw3/kns
 // @license      MIT
-// @iconURL      https://raw.githubusercontent.com/iramorktum/warchik/refs/heads/main/103456.png
+// @iconURL      https://raw.githubusercontent.com/iramorktum/pictures/refs/heads/main/103456.png
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/564562/KNS%20Studio.user.js
+// @updateURL https://update.greasyfork.org/scripts/564562/KNS%20Studio.meta.js
 // ==/UserScript==
 
 (function() {
